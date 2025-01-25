@@ -357,3 +357,7 @@ strong:hover{
     cursor: pointer;
 
 }
+@media (max-width: 480px) {
+    header {
+        flex-direction: column;
+    }
